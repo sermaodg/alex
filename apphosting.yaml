@@ -1,0 +1,3 @@
+runtime: nodejs20
+app: app
+regions: ["us-central1"]
